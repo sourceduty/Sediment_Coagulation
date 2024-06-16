@@ -1,4 +1,4 @@
-![Water Powder](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/3f1c1119-41cb-41ab-b283-cff07ef3784d)
+![Muddy Water](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/a0ec9cfa-16ef-49df-a9a1-51ee3154572c)
 
 To conceptualize a water sediment coagulation chemical for clarifying muddy and unclear water for scuba divers, we need to consider a compound that is environmentally friendly, non-toxic to marine life, and efficient in causing sediment particles to coagulate and settle to the bottom. An ideal chemical would work quickly without disturbing the aquatic ecosystem.
 
@@ -33,10 +33,6 @@ Chitosan:
 Both chemicals can be applied from underwater tubes or sprayed from above using a pressurized system. Careful control of concentrations is essential to minimize environmental impact.
 
 It's important to note that the actual feasibility, environmental impact, and cost-effectiveness of using these chemicals for underwater clarity enhancement should be thoroughly evaluated through pilot studies and environmental assessments. Additionally, local regulations and guidelines regarding the use of chemicals in aquatic environments must be strictly followed.
-
-#
-
-![Muddy Water](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/a0ec9cfa-16ef-49df-a9a1-51ee3154572c)
 
 #
 ### Related Links
