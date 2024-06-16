@@ -34,7 +34,9 @@ Both chemicals can be applied from underwater tubes or sprayed from above using 
 
 It's important to note that the actual feasibility, environmental impact, and cost-effectiveness of using these chemicals for underwater clarity enhancement should be thoroughly evaluated through pilot studies and environmental assessments. Additionally, local regulations and guidelines regarding the use of chemicals in aquatic environments must be strictly followed.
 
-![Muddy Water](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/4735c119-7c9f-44aa-a46c-0df1caa1ce83)
+#
+
+![Muddy Water](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/a0ec9cfa-16ef-49df-a9a1-51ee3154572c)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
