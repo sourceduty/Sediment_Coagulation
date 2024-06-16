@@ -38,5 +38,12 @@ It's important to note that the actual feasibility, environmental impact, and co
 
 ![Muddy Water](https://github.com/sourceduty/Sediment_Coagulation/assets/123030236/a0ec9cfa-16ef-49df-a9a1-51ee3154572c)
 
+#
+### Related Links
+
+[Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+<br>
+[Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
