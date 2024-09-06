@@ -40,6 +40,20 @@ It's important to note that the actual feasibility, environmental impact, and co
 [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
 <br>
 [Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
+<br>
+[Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
+<br>
+[Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
+<br>
+[Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
